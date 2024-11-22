@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **GSOC**
 
-- 👨‍💻 All of my projects are available at [https://portfolio01-bay.vercel.app/](https://portfolio01-bay.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://myfolio-coral.vercel.app/](https://myfolio-coral.vercel.app/)
 
 - 💬 Ask me about **MERN Stack, Docker and, Logo Design**
 
