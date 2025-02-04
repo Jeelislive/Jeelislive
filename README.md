@@ -15,13 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1krgsG8yoJM3v59fdMoAeZu8atZj8l6hw/view?pli=1](https://drive.google.com/file/d/1krgsG8yoJM3v59fdMoAeZu8atZj8l6hw/view?pli=1)
 
-- ⚡ Fun fact **I Think I'm Lucifer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/jeel404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeel404" height="30" width="40" /></a>
-</p>
-
 <h2 align="center"> 🏆 Competitive Programming Profiles </h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -31,7 +24,12 @@
       <img width="400" src="https://leetcard.jacoblin.cool/jeel404?theme=dark&ext=contest&radius=20" alt="LeetCode Stats">
     </a>
   </div>
-  <!-- Codeforces is removed as you don't have the username-->
+  <div style="text-align: center;">
+    <h3>Codeforces Stats</h3>
+    <a href="https://codeforces.com/profile/Jeel404" target="_blank">
+        <img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=Jeel404&theme=dark&show_icons=true&radius=20" alt="Codeforces Stats">
+    </a>
+  </div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
