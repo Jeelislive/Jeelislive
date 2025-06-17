@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jeelrupareliya255@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1krgsG8yoJM3v59fdMoAeZu8atZj8l6hw/view?pli=1](https://drive.google.com/file/d/1krgsG8yoJM3v59fdMoAeZu8atZj8l6hw/view?pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1krgsG8yoJM3v59fdMoAeZu8atZj8l6hw/view?pli=1](https://drive.google.com/file/d/1Te5dDLV-Giyrd5ZMFM57KMTh3AoLoRl4/view?usp=drive_link))
 
 <h2 align="center"> 🏆 Competitive Programming Profiles </h2>
 
