@@ -74,9 +74,32 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeelislive&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeelislive&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jeelislive&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
+    alt="Jeel's GitHub Stats" 
+    width="48%" 
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelislive&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    width="48%" 
+  />
+
 </div>
+
+<!-- GitHub Streak (optional bonus) -->
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jeelislive&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    width="96%"
+  />
+</div>
+
 
 ---
 
