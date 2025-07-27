@@ -85,7 +85,7 @@
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeelislive&show_icons=true&locale=en&layout=compact" alt="Jeelislive" /></p>
 
   <!-- Most Used Languages -->
   <img 
