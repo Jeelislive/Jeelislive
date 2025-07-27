@@ -85,11 +85,7 @@
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jeelislive&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
-    alt="Jeel's GitHub Stats" 
-    width="48%" 
-  />
+  
 
   <!-- Most Used Languages -->
   <img 
