@@ -12,9 +12,7 @@
   <a href="mailto:jeelrupareliya255@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1T6K2hxL1PJ_VRIo2tk0A0q9DIdPMro0c/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View%20Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
+  
 </div>
 
 ---
