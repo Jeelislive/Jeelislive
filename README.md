@@ -1,30 +1,15 @@
+Hi there, I'm Jeel, Typescript Engineer 👋  
+I'm currently learning more about Language Models, Python, and AI. Also, I'm actively contributing to Ts open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1IBuOEmLWSBerkAlCTBTyrp_l0J6WhK92/view?usp=sharing).
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeel+Rupareliya;FullStack+Developer+%26+Logo+Designer" alt="Typing SVG" />
-
-  <h3>FullStack Developer from India</h3>
-</div>
-
-<div align="center">
-  <a href="https://myfolio-coral.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:jeelrupareliya255@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-</div>
-
----
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on**: [SIH - NOC Generator](https://github.com/Jeelislive/NOC-server)
-- 🌱 **Learning**: DSA with Java.
-- 👯 **Looking to collaborate on**: Google Summer of Code (GSOC)
-- 💬 **Ask me about**: MERN Stack, Docker, Logo Design
+- 🔭 **Currently working on**: [Github Analyzer]([https://github.com/Jeelislive/NOC-server](https://github.com/Jeelislive/Github-Analyzer))
+- 🌱 **Learning**: Python.
+- 👯 **Looking to collaborate on**: Startups and Products
+- 💬 **Ask me about**: Javascript, Typescript, AI
 - 📫 **Reach me**: [jeelrupareliya255@gmail.com](mailto:jeelrupareliya255@gmail.com)
-- 🎨 **Interactive 3D Portfolio**: [Experience my skills in 3D!](https://myfolio-coral.vercel.app/) *(Deploy your 3D site and update this link)*
+- 🎨 **Portfolio**: [Experience my skills in 3D!](https://www.rjisalive.tech/) *(Deploy your 3D site and update this link)*
 
 ---
 
@@ -36,6 +21,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,17 +38,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-<h3 align="left">🐍 A Snake Eating my Contributions Graph</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jeelislive/Jeelislive/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jeelislive/Jeelislive/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Jeelislive/Jeelislive/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
----
 
 ### 📊 GitHub Stats
 
@@ -71,23 +49,8 @@
   <!-- GitHub Stats Card -->
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeelislive&show_icons=true&locale=en" alt="Jeelislive" /></p>
 
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelislive&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    width="48%" 
-  />
-
 </div>
 
-<!-- GitHub Streak (optional bonus) -->
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jeelislive&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
-    width="96%"
-  />
-</div>
 
 
 ---
