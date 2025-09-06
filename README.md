@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeel+Rupareliya;FullStack+Developer+%26+Logo+Designer" alt="Typing SVG" />
 
-  <h3>A passionate FullStack Developer and Logo Designer from India 🇮🇳</h3>
+  <h3>FullStack Developer from India</h3>
 </div>
 
 <div align="center">
@@ -28,15 +28,7 @@
 
 ---
 
-### 🏆 Competitive Programming
-
-<div align="center">
-  <h3>LeetCode Stats</h3>
-  <a href="https://leetcode.com/jeel404" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/jeel404?theme=dark&ext=contest&radius=20" alt="LeetCode Stats" width="400" />
-  </a>
-</div>
-
+[![RJ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeelislive)](https://github.com/Jeelislive/github-readme-activity-graph)
 ---
 
 ### 🛠️ Languages & Tools
