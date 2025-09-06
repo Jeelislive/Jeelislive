@@ -1,5 +1,5 @@
 Hi there, I'm Jeel, Typescript Engineer 👋  
-I'm currently learning more about Language Models, Python, and AI. Also, I'm actively contributing to Ts open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1IBuOEmLWSBerkAlCTBTyrp_l0J6WhK92/view?usp=sharing).
+I'm currently learning more about Language Models, Python, and AI. Also, I'm actively contributing to Ts open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1qcxv81L72RiVE2dG4p9TrjrrGWEFmjGC/view?usp=sharing).
 
 
 ### 🚀 About Me
