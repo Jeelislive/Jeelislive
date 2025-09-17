@@ -5,12 +5,11 @@ I'm currently learning more about Language Models, Python, and AI. Also, I'm act
 ### 🚀 About Me
 
 - 🔭 **Currently working on**: [Github Analyzer]([https://github.com/Jeelislive/NOC-server](https://github.com/Jeelislive/Github-Analyzer))
-- 🌱 **Learning**: Python.
+- 🌱 **Learning**: Python, springboot.
 - 👯 **Looking to collaborate on**: Startups and Products
 - 💬 **Ask me about**: Javascript, Typescript, AI
 - 📫 **Reach me**: [jeelrupareliya255@gmail.com](mailto:jeelrupareliya255@gmail.com)
-- 🎨 **Portfolio**: [Experience my skills in 3D!](https://www.rjisalive.tech/) *(Deploy your 3D site and update this link)*
-
+- 🎨 **Portfolio**: [Know more about me](https://www.rjisalive.tech/) 
 ---
 
 [![RJ's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeelislive)](https://github.com/Jeelislive/github-readme-activity-graph)
