@@ -48,7 +48,7 @@ I'm currently learning more about Language Models, Python, and AI. Also, I'm act
 
 <div align="center">
 
-  https://github-readme-stats.vercel.app/api?username=Jeelislive&theme=nord&show_icons=true&hide_border=true&count_private=true
+ ![Jeelislive's Stats](https://github-readme-stats.vercel.app/api?username=Jeelislive&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
