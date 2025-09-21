@@ -1,16 +1,16 @@
 **Hi there, I'm Jeel, JavaScript Engineer 👋**  
 
 
-I'm currently learning more about Language Models, Python, and AI. Also, I'm actively contributing to Ts open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1fWeMh-Lg0Z11VOG5eliSHRcX8YxMwta4/view?usp=drivesdk).
+I'm currently learning more about Language Models, Python Basics, System Design, and AI. Also, I'm actively contributing to Ts open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1fWeMh-Lg0Z11VOG5eliSHRcX8YxMwta4/view?usp=drivesdk).
 
 
 
 ### 🚀 About Me
 
 - 🔭 **Currently working on**: [Github Analyzer]([https://github.com/Jeelislive/NOC-server](https://github.com/Jeelislive/Github-Analyzer))
-- 🌱 **Learning**: Python, springboot.
+- 🌱 **Learning**: Python, system Design, springboot.
 - 👯 **Looking to collaborate on**: Startups and Products
-- 💬 **Ask me about**: Javascript, Typescript, AI
+- 💬 **Good at**: Javascript, React, NodeJs, Typescript, AI
 - 📫 **Reach me**: [jeelrupareliya255@gmail.com](mailto:jeelrupareliya255@gmail.com)
 - 🎨 **Portfolio**: [Know more about me](https://www.rjisalive.tech/) 
 ---
