@@ -49,7 +49,8 @@ I'm currently learning more about Language Models, Python, and AI. Also, I'm act
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeelislive&show_icons=true&locale=en" alt="Jeelislive" /></p>
+  ![Jeel's GitHub Stats](https://camo.githubusercontent.com/6df846254e278ea66e8aa240c0496d625941bceaf685216eeda5f830f313b890/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e616e796f313431267468656d653d676f7468616d2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565)
+
 
 </div>
 
