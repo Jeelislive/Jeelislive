@@ -48,7 +48,7 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 
 <div align="center">
 
- ![Jeelislive's Stats](https://github-readme-stats.vercel.app/api?username=Jeelislive&theme=nord&show_icons=true&hide_border=true&count_private=true)
+ ![Jeelislive's Stats](https://github-readme-stats.vercel.app/api?username=Jeelislive&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 </div>
 
