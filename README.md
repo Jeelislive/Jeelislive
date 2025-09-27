@@ -57,12 +57,11 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 ---
 
 ### 📈 Visitors
+![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/28486945)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jeelislive.jeelislive" alt="Visitor Count" />
-  ![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/28486945)
-
-</div>
+  </div>
 
 <p align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
