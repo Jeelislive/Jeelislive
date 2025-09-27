@@ -49,7 +49,7 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 <div align="center">
 
  ![Jeelislive's Stats](https://github-readme-stats.vercel.app/api?username=Jeelislive&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- ![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/28486945)
+ 
 
 </div>
 
@@ -60,6 +60,8 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jeelislive.jeelislive" alt="Visitor Count" />
+  ![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/28486945)
+
 </div>
 
 <p align="center">
