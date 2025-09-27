@@ -52,6 +52,10 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 
 </div>
 
+[![Stack Overflow](https://stackoverflow.com/users/flair/28486945.png)](https://stackoverflow.com/users/28486945/jeel404)
+
+
+
 
 
 ---
