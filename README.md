@@ -1,4 +1,4 @@
-**Hi there, I'm Jeel, JavaScript Engineer 👋**  
+**Hi there, I'm Jeel, JavaScript Developer 👋**  
 
 
 I'm currently learning more about Python Basics, System Design, and AI. Also, I'm actively contributing to Ts open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1WXwxQzpjRw1ORFtbsOE-tuH7GdhOfb5U/view).
@@ -7,7 +7,7 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on**: [Github Analyzer]([https://github.com/Jeelislive/NOC-server](https://github.com/Jeelislive/Github-Analyzer))
+- 🔭 **Currently working on**: [Github Analyzer](https://github.com/Jeelislive/Github-Analyzer)
 - 🌱 **Learning**: Python, system Design, springboot.
 - 👯 **Looking to collaborate on**: Startups and Products
 - 💬 **Good at**: Javascript, React, NodeJs, Typescript, AI
