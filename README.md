@@ -53,6 +53,9 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 
 </div>
 
+![Jeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeelislive\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 
 ---
 
