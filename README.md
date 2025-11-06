@@ -1,7 +1,7 @@
 **Hi there, I'm Jeel, JavaScript Developer 👋**  
 
 
-I'm currently learning more about Python Basics, System Design, and AI. Also, I'm actively contributing to Ts open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/16e96wxkGGigP_tPLET_Fpb-uXE_CB83e/view?usp=sharing).
+I'm currently learning more about Python Basics, System Design, and AI. Also, I'm actively contributing on open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/16e96wxkGGigP_tPLET_Fpb-uXE_CB83e/view?usp=sharing).
 
 
 
