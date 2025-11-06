@@ -8,9 +8,9 @@ I'm currently learning more about Python Basics, System Design, and AI. Also, I'
 ### 🚀 About Me
 
 - 🔭 **Currently working on**: [Github Analyzer](https://github.com/Jeelislive/Github-Analyzer)
-- 🌱 **Learning**: Python, system Design, springboot.
+- 🌱 **Learning**: Python, system Design.
 - 👯 **Looking to collaborate on**: Startups and Products
-- 💬 **Good at**: Javascript, React, NodeJs, Typescript, AI
+- 💬 **Good at**: Javascript, React, NextJs, Supabase, NodeJs, Typescript, AI
 - 📫 **Reach me**: [jeelrupareliya255@gmail.com](mailto:jeelrupareliya255@gmail.com)
 - 🎨 **Portfolio**: [Know more about me](https://www.rjisalive.tech/) 
 ---
