@@ -46,9 +46,9 @@ I'm currently learning more about System Design, and AI. Also, I'm actively cont
 
 ### 📊 GitHub Stats
 
-<div>
+
   ![Stats](https://github-states-generator.vercel.app/api?username=urmillive&theme=dark&show_icons=true&show=reviews%2Cprs_merged&bg_color=030303)
-</div>
+
 
 
 <div align="center">
