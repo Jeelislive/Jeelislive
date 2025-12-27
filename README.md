@@ -1,16 +1,16 @@
-**Hi there, I'm Jeel, JavaScript Developer 👋**  
+**Hi there, I'm Jeel, Backend Engineer 👋**  
 
 
-I'm currently learning more about Python Basics, System Design, and AI. Also, I'm actively contributing on open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/16e96wxkGGigP_tPLET_Fpb-uXE_CB83e/view?usp=sharing).
+I'm currently learning more about System Design, and AI. Also, I'm actively contributing on open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/16e96wxkGGigP_tPLET_Fpb-uXE_CB83e/view?usp=sharing).
 
 
 
 ### 🚀 About Me
 
 - 🔭 **Currently working on**: [Github Analyzer](https://github.com/Jeelislive/Github-Analyzer)
-- 🌱 **Learning**: Python, system Design.
+- 🌱 **Learning**: system Design.
 - 👯 **Looking to collaborate on**: Startups and Products
-- 💬 **Good at**: Javascript, React, NextJs, Supabase, NodeJs, Typescript, Cursor, Windsurf.
+- 💬 **Good at**: Microservices, NestJS, Kafka, Redis, BullMQ, RabbitMQ, NodeJs, Typescript, Cursor, Windsurf.
 - 📫 **Reach me**: [jeelrupareliya255@gmail.com](mailto:jeelrupareliya255@gmail.com)
 - 🎨 **Portfolio**: [Know more about me](https://www.rjisalive.tech/) 
 ---
