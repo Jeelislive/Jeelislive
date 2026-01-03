@@ -47,11 +47,7 @@ I'm currently learning more about System Design, and AI. Also, I'm actively cont
 ### 📊 GitHub Stats
 
 
-<div align="center">
-
-![jeelislive's Stats](https://github-readme-stats.vercel.app/api?username=jeelislive&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</div>
-
+![Stats](https://github-states-generator.vercel.app/api?username=Jeelislive&theme=dark&show_icons=true&show=reviews%2Cprs_merged)
 
 
 
