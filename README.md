@@ -7,7 +7,7 @@ I'm currently learning more about System Design, and AI. Also, I'm actively cont
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on**: [OpenRank]([https://github.com/Jeelislive/OpenRank](http://open-rank.vercel.app/)) & [Github Analyzer](https://github.com/Jeelislive/Github-Analyzer)
+- 🔭 **Currently working on**: [OpenRank](http://open-rank.vercel.app/) & [Github Analyzer](https://github.com/Jeelislive/Github-Analyzer)
 - 🌱 **Learning**: system Design.
 - 👯 **Looking to collaborate on**: Startups and Products
 - 💬 **Good at**: Microservices, NestJS, Kafka, Redis, BullMQ, RabbitMQ, NodeJs, Typescript, Cursor, Windsurf.
