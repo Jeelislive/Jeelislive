@@ -1,7 +1,7 @@
 **Hi there, I'm Jeel, Backend Engineer 👋**  
 
 
-I'm currently learning more about System Design, and AI. Also, I'm actively contributing on open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/16e96wxkGGigP_tPLET_Fpb-uXE_CB83e/view?usp=sharing).
+I'm currently learning more about System Design, and AI. Also, I'm actively contributing on open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1W7w5nUecFjml_9OdLfw5yE8Jb1YrqnQz/view?usp=sharing).
 
 
 
