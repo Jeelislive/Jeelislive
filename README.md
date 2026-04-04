@@ -42,17 +42,6 @@ I'm currently learning more about System Design, and AI. Also, I'm actively cont
 
 
 
-
-
-### 📊 GitHub Stats
-
-
-![Stats](https://github-states-generator.vercel.app/api?username=Jeelislive&theme=dark&show_icons=true&show=reviews%2Cprs_merged)
-
-
-
-
-
 ---
 
 ### 📈 Visitors
